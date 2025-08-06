@@ -1,4 +1,4 @@
-<h3 align="left">Olá, meu nome é Gustavo Lopes! :p</h3>
+<h3 align="left">Olá, meu nome é Gustavo Lopes!</h3>
 
 ###
 
